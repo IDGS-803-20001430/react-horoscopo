@@ -1,0 +1,32 @@
+/* ResultadoHoroscopo.css */
+.resultado-horoscopo {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.resultado-horoscopo h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.imagen-signo img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.info-signo {
+  text-align: left;
+}
+
+.info-signo p {
+  margin: 10px 0;
+  font-size: 1em;
+  color: #555;
+}
